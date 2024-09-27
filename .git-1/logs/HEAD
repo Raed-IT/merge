@@ -1,0 +1,228 @@
+0000000000000000000000000000000000000000 f40f0f2f7dd018a1fdac8c8d28d2b4e1f5aa780f unknown <RWDA@DESKTOP-K9RDBRH.(none)> 1720164887 +0300	clone: from https://git.itmd-cloud.net/itm-core/itm-core.git
+f40f0f2f7dd018a1fdac8c8d28d2b4e1f5aa780f 93b9f680572fd43bcb822cd7979e2d8c8d6ac947 unknown <RWDA@DESKTOP-K9RDBRH.(none)> 1720165072 +0300	checkout: moving from main to abdulrahman
+93b9f680572fd43bcb822cd7979e2d8c8d6ac947 5c3256875a218406e558cc67280973bceffa926a SR <homjpkatarhom6468@gmail.com> 1720181333 +0300	commit: test 2 table and test buch repo
+5c3256875a218406e558cc67280973bceffa926a 9b5ab583a46705bd6a1cff9b7bfd02b051e529b4 SR <homjpkatarhom6468@gmail.com> 1720181466 +0300	commit: test bush
+9b5ab583a46705bd6a1cff9b7bfd02b051e529b4 260872682469d1050790cbed6ad878d607bc38c7 SR <homjpkatarhom6468@gmail.com> 1720182944 +0300	commit: test 3 table and compontents page
+260872682469d1050790cbed6ad878d607bc38c7 d161a5c80590ff1e9b86a76a12cb24db23068cbf abdulrahman_sr <homjpkatarhom6468@gmail.com> 1720449059 +0300	commit: Test and Edit Desine
+d161a5c80590ff1e9b86a76a12cb24db23068cbf 2e11bca7ed6588f2fff4ff6036e53de530ac9f12 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1720449068 +0300	pull --tags origin abdulrahman: Merge made by the 'ort' strategy.
+2e11bca7ed6588f2fff4ff6036e53de530ac9f12 fa0ccd73713182ec0448ae22686a4de01aeb3343 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1720520770 +0300	commit: test ui table test_4
+fa0ccd73713182ec0448ae22686a4de01aeb3343 71796025f24c7c1195372c674a1177b95d16e359 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1720526496 +0300	commit: Edit Name Fille and naming
+71796025f24c7c1195372c674a1177b95d16e359 d7320c53b7cc55dbf74d2391be6ebe34a1d166bb abdulrahman_sr <homjpkatarhom6468@gmail.com> 1720608434 +0300	commit: Edit table Dinamec full
+d7320c53b7cc55dbf74d2391be6ebe34a1d166bb 1a033667c14b459dcdb547fe0d27e0657a982f7a abdulrahman_sr <homjpkatarhom6468@gmail.com> 1720609717 +0300	commit: Edit Desine Code
+1a033667c14b459dcdb547fe0d27e0657a982f7a 70e6487791187be9431755e8fc671f0469c569bf abdulrahman_sr <homjpkatarhom6468@gmail.com> 1720609748 +0300	pull --tags origin main: Merge made by the 'ort' strategy.
+70e6487791187be9431755e8fc671f0469c569bf 27aaf7ec0962c3bb5ee80ea67dbe3b1296dead9d abdulrahman_sr <homjpkatarhom6468@gmail.com> 1720623223 +0300	commit: Edit Desine code
+27aaf7ec0962c3bb5ee80ea67dbe3b1296dead9d 616eb9b7cd65aeadef07365e5909c0a1ecb6ea08 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1720694709 +0300	commit: End Desine Tabel and start nwo Working in API
+616eb9b7cd65aeadef07365e5909c0a1ecb6ea08 44b9c02a0b5e9c0f91648c60ba3707840d0bc969 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1720856458 +0300	commit: Viow Data from Api in tabel
+44b9c02a0b5e9c0f91648c60ba3707840d0bc969 1b8aedac4fe3300d8549838c8373e079c3294d39 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1720958825 +0300	commit: View modules C,R,D,W project POD
+1b8aedac4fe3300d8549838c8373e079c3294d39 a7b34e8eabd2fe6161148d2f24648315539159b3 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1720959036 +0300	commit (merge): Merge branch 'raed' of https://git.itmd-cloud.net/itm-core/itm-core into abdulrahman
+a7b34e8eabd2fe6161148d2f24648315539159b3 88af82148ed3a91fb6339476c75d8f5642da5c53 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721058074 +0300	commit: Erroe 415
+88af82148ed3a91fb6339476c75d8f5642da5c53 138ad054aabd5d7c9017d147b5121f8038b89565 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721204648 +0300	commit: View Tabel Module
+138ad054aabd5d7c9017d147b5121f8038b89565 c9e29dc70993a7a553b86e39a2e62cacded06752 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721219330 +0300	commit: Card tabel and Action tools bar tabel
+c9e29dc70993a7a553b86e39a2e62cacded06752 7e1746f1d3543b14c6eeefbaaa4f91841972124c abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721220796 +0300	commit: Edit ui tabel and Api Consigments
+7e1746f1d3543b14c6eeefbaaa4f91841972124c f63a208be9ebdfc72341f8252cc2241354822adb abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721221123 +0300	commit: Edit empte
+f63a208be9ebdfc72341f8252cc2241354822adb e80b065d8fc9c398f5238c18f96438f6d3ba42d5 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721229352 +0300	commit: coll
+e80b065d8fc9c398f5238c18f96438f6d3ba42d5 aa659a3d8d46ae8ec3548080173f833660c29b8a abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721229419 +0300	commit (merge): Merge branch 'raed' of https://git.itmd-cloud.net/itm-core/itm-core into abdulrahman
+aa659a3d8d46ae8ec3548080173f833660c29b8a e48b1b35802cc166700b9226b1572f4dec43503e abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721229507 +0300	commit: edit section
+e48b1b35802cc166700b9226b1572f4dec43503e 76135ad9fc46d7d6f1753368a70603088ab12051 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721230133 +0300	commit: Edit file in code
+76135ad9fc46d7d6f1753368a70603088ab12051 4ba0cb4c1ce201671c34d60a3facb5c16cf9629d abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721232049 +0300	commit: Add copontent header pag module
+4ba0cb4c1ce201671c34d60a3facb5c16cf9629d 1865ed6bc9d4dceb32fe871a711557b62baa9560 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721291733 +0300	commit: using template in tabel rows
+1865ed6bc9d4dceb32fe871a711557b62baa9560 91364fde1a35542d105431b02f87ac9bd64a053e abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721292399 +0300	commit: clean code
+91364fde1a35542d105431b02f87ac9bd64a053e ed225c953efc4e4241455e5540f6ad558836afd4 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721313273 +0300	commit: create Function Glopel for End-Pont is Dinamec for All Module
+ed225c953efc4e4241455e5540f6ad558836afd4 da4374d05a8f55c24b3080e12827b82c7f233890 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721317221 +0300	commit: Editing in Card Tabel for is Dinamec templets
+da4374d05a8f55c24b3080e12827b82c7f233890 5fca1419e46353b036fc33dba2295bb4a93d1c92 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721317255 +0300	commit: clean code
+5fca1419e46353b036fc33dba2295bb4a93d1c92 2fed5f53571ae274d00ce9a7744ba19051ef0b1d abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721377466 +0300	commit: icon person
+2fed5f53571ae274d00ce9a7744ba19051ef0b1d 9cdd499e47a79fa97b03a5387170303702b72d94 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721389912 +0300	commit: Clean Code and sort Folders
+9cdd499e47a79fa97b03a5387170303702b72d94 961c698aeb3b271a2221acbe191d503471661430 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721400096 +0300	commit (merge): Merge branch 'raed' of https://git.itmd-cloud.net/itm-core/itm-core into abdulrahman
+961c698aeb3b271a2221acbe191d503471661430 fa054c58cee0b53c80b405cd3c6f4bf0931b3114 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721557598 +0300	commit: Edit code clean
+fa054c58cee0b53c80b405cd3c6f4bf0931b3114 b3ee9b892ef637ce1a0af453008ad3d82e4f85ae abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721557995 +0300	commit (merge): Merge branch 'raed' of https://git.itmd-cloud.net/itm-core/itm-core into abdulrahman
+b3ee9b892ef637ce1a0af453008ad3d82e4f85ae c455c18facd7ea8711bf408e44bccb01aebb5ef3 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721558009 +0300	commit: marge Code
+c455c18facd7ea8711bf408e44bccb01aebb5ef3 4d079496c676baea78d2e1d0cb8693c62b53516c abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721570625 +0300	commit: Edit color sort and colums and filters
+4d079496c676baea78d2e1d0cb8693c62b53516c edee63d1f835453d8f69419febc23620cc629b27 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1721748766 +0300	commit: Edit all desin in table and desine menue icon
+edee63d1f835453d8f69419febc23620cc629b27 eb7b34fb5570c63aca04f73af9ace35864a0dc18 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722061688 +0300	pull --tags origin raed: Fast-forward
+eb7b34fb5570c63aca04f73af9ace35864a0dc18 930180a8683dbbfddc185ec985b528d79bc65602 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722068185 +0300	pull --tags origin raed: Fast-forward
+930180a8683dbbfddc185ec985b528d79bc65602 cca57d1361b959fabab83bdd4f8ef1f701fa9261 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722095710 +0300	commit: Action and filter tapel from MUI dataGrid all Colums
+cca57d1361b959fabab83bdd4f8ef1f701fa9261 c8fe2522a07a1e82d8a857d248aa32b2627a579e abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722226098 +0300	commit: filter send to API
+c8fe2522a07a1e82d8a857d248aa32b2627a579e 9e6a6f5da0cf753f5ba84a1d58b328677c694625 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722262510 +0300	commit: interface filter
+9e6a6f5da0cf753f5ba84a1d58b328677c694625 fcccafc6d4008e2d037f900e327875852745a61b abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722268822 +0300	commit: fillter
+fcccafc6d4008e2d037f900e327875852745a61b fcccafc6d4008e2d037f900e327875852745a61b abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722269076 +0300	checkout: moving from abdulrahman to abdulrahman
+fcccafc6d4008e2d037f900e327875852745a61b 39d7527fd7b3473afcff0633df7c29bf84686174 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722275989 +0300	pull --tags origin raed: Fast-forward
+39d7527fd7b3473afcff0633df7c29bf84686174 3d5b017fa0ad54947e30aa4f681e09a04bf81b79 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722411959 +0300	pull --tags origin raed: Fast-forward
+3d5b017fa0ad54947e30aa4f681e09a04bf81b79 fc3b653e61d8728176fded53ce2691810d8646bc abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722420915 +0300	commit: Edit filter
+fc3b653e61d8728176fded53ce2691810d8646bc b46215ce47b10bfba54c10d07759f24a55f98cab abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722433046 +0300	commit: Save data sort and pagintions in URL
+b46215ce47b10bfba54c10d07759f24a55f98cab a1966f778495f569dec9dc1abc83999ff6590b7e abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722438643 +0300	commit: Fillter save in Url
+a1966f778495f569dec9dc1abc83999ff6590b7e dbd33c975287fefeb8b2a376558af8bb12563656 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722442272 +0300	commit: Edit data in url
+dbd33c975287fefeb8b2a376558af8bb12563656 a8e14190c3aa7c5cd2f712798500c670f2acbd06 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722468536 +0300	commit: End Edit filters
+a8e14190c3aa7c5cd2f712798500c670f2acbd06 1307ca7e03767e5f852af2337dddccda1f9ac041 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722493956 +0300	commit: delete fillter bu id
+1307ca7e03767e5f852af2337dddccda1f9ac041 4836e032f98c192d9e23a8893e6cc7fc4e79f679 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722498952 +0300	commit: End task filter and view tabel
+4836e032f98c192d9e23a8893e6cc7fc4e79f679 624d34c871b2cb788e2c1ad699b42d98f486cb93 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722502153 +0300	commit: End filters Edit ui and clane code
+624d34c871b2cb788e2c1ad699b42d98f486cb93 9a8d4b28f5e0d8065659be1fe20417421009dadd abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722583197 +0300	commit: Function GlobalePost
+9a8d4b28f5e0d8065659be1fe20417421009dadd 99668beb04941b6b0a81e90f0a3e3ff12ddbd53c abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722585213 +0300	commit: globel post update function
+99668beb04941b6b0a81e90f0a3e3ff12ddbd53c 5ea033675c5a2d150ae00cdf7db541d3e55f848c abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722849886 +0300	commit: clean code
+5ea033675c5a2d150ae00cdf7db541d3e55f848c 968a9d3aa4f12fb481390c085ec3db3cdaab2d89 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722849916 +0300	commit (merge): Merge branch 'raed' of https://git.itmd-cloud.net/itm-core/itm-core into abdulrahman
+968a9d3aa4f12fb481390c085ec3db3cdaab2d89 3bafdd10c9637989a4dd6666b3d3851ffbb4094e abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722853836 +0300	commit: clean code
+3bafdd10c9637989a4dd6666b3d3851ffbb4094e 23849ccf029733c7bd3ef863fb4e6840901fd0cc abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722939594 +0300	commit: End Edit filters if more filter lpgic equale OR
+23849ccf029733c7bd3ef863fb4e6840901fd0cc af9f5271d979f51388b2d9c512d4f479538582b2 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722939911 +0300	commit: clean code
+af9f5271d979f51388b2d9c512d4f479538582b2 7fc3a28a1068187ddafdd3ce0c39af9e8e0c7148 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722940276 +0300	commit: delete sort butten in toll bar tabel
+7fc3a28a1068187ddafdd3ce0c39af9e8e0c7148 37adc55c293f116c5bdfdb04bc281cb6c4557055 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1722940947 +0300	commit: clone code in tall bar
+37adc55c293f116c5bdfdb04bc281cb6c4557055 24cb7b5062f693e686c50d7c3e033bb1b6da8a22 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723015357 +0300	commit: Edit Errors in Ui
+24cb7b5062f693e686c50d7c3e033bb1b6da8a22 83d642aca585d155eaab2992cdb905b9d39a4bf2 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723016848 +0300	pull --tags origin raed: Fast-forward
+83d642aca585d155eaab2992cdb905b9d39a4bf2 e7a5738504049d75e71b9dcb364469075ec80c72 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723026478 +0300	commit: pagenumper in error in count
+e7a5738504049d75e71b9dcb364469075ec80c72 0d9159e42ec50804b3888ba28691f8c140ecfd31 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723026521 +0300	commit (merge): Merge branch 'raed' of https://git.itmd-cloud.net/itm-core/itm-core into abdulrahman
+0d9159e42ec50804b3888ba28691f8c140ecfd31 012059dc88786689b1dc7d1660c1dc86c0c74ecb abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723033210 +0300	commit: cloane code
+012059dc88786689b1dc7d1660c1dc86c0c74ecb b49aad7af412f802378710e78b43215737a78871 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723033228 +0300	pull --tags origin raed: Merge made by the 'ort' strategy.
+b49aad7af412f802378710e78b43215737a78871 4e1eecd9290060074a9e445f0853faf817b42c65 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723113485 +0300	commit: End Columns and filters
+4e1eecd9290060074a9e445f0853faf817b42c65 901d68ea6ec5d429c45c9f886a423c2edfe40698 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723130188 +0300	commit: Edit sume error
+901d68ea6ec5d429c45c9f886a423c2edfe40698 b889ad31fdb816279f157894609d67bc5a2b99d5 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723133006 +0300	commit: Edit error
+b889ad31fdb816279f157894609d67bc5a2b99d5 7f6eb1829cef4bc7ca133220832e3504777380e8 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723207701 +0300	pull --tags origin raed: Fast-forward
+7f6eb1829cef4bc7ca133220832e3504777380e8 5fed29b9f8f1994089de1c8410d439ab8680ab20 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723365448 +0300	commit: Edit in page Tracks and filters and columns
+5fed29b9f8f1994089de1c8410d439ab8680ab20 6a0f556d67f7fdb1e31ecdf40e0742bd828f4c60 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723452481 +0300	commit: claen code in page module id
+6a0f556d67f7fdb1e31ecdf40e0742bd828f4c60 57dc4153016729c83f86e6490f637dea32bb09ee abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723452851 +0300	commit: Edit f, c in tabel
+57dc4153016729c83f86e6490f637dea32bb09ee 1cf1bec28f44a0af9a359d9a59b75ab915fea04c abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723457784 +0300	commit: Edit pagNumper
+1cf1bec28f44a0af9a359d9a59b75ab915fea04c 95cc87c494b08d0f35c6922069fa31da37c923df abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723458758 +0300	commit: delete space
+95cc87c494b08d0f35c6922069fa31da37c923df 37bee977d266c299cc5ad1c5291c705cca55969c abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723477887 +0300	commit: Edit nutefi in fillters
+37bee977d266c299cc5ad1c5291c705cca55969c bdce2d232e92d12eeb8b7b9f0d7bc654c1cad71b abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723477972 +0300	commit: onSortChange
+bdce2d232e92d12eeb8b7b9f0d7bc654c1cad71b 1cf4e69af655ff5b1ccc8a97df55e5ff7850078d abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723498765 +0300	commit: Edit in paginations
+1cf4e69af655ff5b1ccc8a97df55e5ff7850078d 88695708150b0277371e3d18c7f36d38c58b3f19 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723538617 +0300	commit: Edit in page for pagintions
+88695708150b0277371e3d18c7f36d38c58b3f19 f927b118197a748d29ff3d91bb124833b0cb75cc abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723624254 +0300	commit: Edir notefy add action and nullapel value and data drivers
+f927b118197a748d29ff3d91bb124833b0cb75cc 40e582dcdbdb9d67ee0de012dc202e9fdc0090d6 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723624286 +0300	pull --tags origin raed: Merge made by the 'ort' strategy.
+40e582dcdbdb9d67ee0de012dc202e9fdc0090d6 a1856248ce91517623d35dfc7befd9ec54cec317 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723754145 +0300	commit: page tracks view Routes and Driver and consigments
+a1856248ce91517623d35dfc7befd9ec54cec317 cd7c3d69fba2b2ebc26cd451170636310e41b834 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723795086 +0300	commit: Updata git API routes in page tracks
+cd7c3d69fba2b2ebc26cd451170636310e41b834 a6a61ad8e2b06ca74cfa3ead09481a116aea9836 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723795411 +0300	commit (merge): Merge branch 'raed' of https://git.itmd-cloud.net/itm-core/itm-core into abdulrahman
+a6a61ad8e2b06ca74cfa3ead09481a116aea9836 3fad89118975858e7ad19fc76aaff1aba83cb6e1 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723795978 +0300	commit: Edit in page tracks git API
+3fad89118975858e7ad19fc76aaff1aba83cb6e1 0e461a939f3ac3a6e05eaba834d3e6efab0956ec abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723798804 +0300	commit: conflacs
+0e461a939f3ac3a6e05eaba834d3e6efab0956ec 1c1c579301364f4b7a9a5bd05b230b9ef932ad00 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723822863 +0300	commit: i Searsh logec for view consigment
+1c1c579301364f4b7a9a5bd05b230b9ef932ad00 7e22352e1da4004c7606c58a78be967f7364f92a abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723823160 +0300	commit: start fillters
+7e22352e1da4004c7606c58a78be967f7364f92a 02bb98eb873658921709d33b30649e9d9faf87e9 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1723890873 +0300	commit: Edit View Consigmnent in Routes
+02bb98eb873658921709d33b30649e9d9faf87e9 51829b180d325e9de0b5c2285a405d39cb7597a0 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724018301 +0300	commit: Edit in map
+51829b180d325e9de0b5c2285a405d39cb7597a0 0c7cb921dcfda121bab912494d91b28ce1f0ea25 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724068617 +0300	commit: View Path drivers and locations Consigments in Map
+0c7cb921dcfda121bab912494d91b28ce1f0ea25 9542cc34661b922392dc6cc625040c61729c819e abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724072605 +0300	commit: Edit in Consigmint
+9542cc34661b922392dc6cc625040c61729c819e 42881d38d5d52ac5c9db6dd6e60cb744c511b4ae abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724072949 +0300	commit: Edit in ceter Maps
+42881d38d5d52ac5c9db6dd6e60cb744c511b4ae 6db41f899ffa5b5036750f588dd94b2d3e53bc91 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724175018 +0300	commit: Edit in map
+6db41f899ffa5b5036750f588dd94b2d3e53bc91 88f24d75c4fd549767c85f24e26d5a31b2827972 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724180003 +0300	commit: Map Edit
+88f24d75c4fd549767c85f24e26d5a31b2827972 242c9a022218ad2b4fd827e463bbd067724c15a5 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724229780 +0300	commit: Map all Consigments
+242c9a022218ad2b4fd827e463bbd067724c15a5 519bfc73092ec4f1f3de0c0cf028e1838bf7e4ac abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724230591 +0300	commit: Edit Cercile
+519bfc73092ec4f1f3de0c0cf028e1838bf7e4ac 26070f5f6538e26a39ea8dd059283cf8176188dd abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724241323 +0300	commit: MarkClasterin map locations
+26070f5f6538e26a39ea8dd059283cf8176188dd cabf570e4c0c2faa17dbcc09a05e98124f5c67a7 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724242014 +0300	commit: View WeareHouse in map
+cabf570e4c0c2faa17dbcc09a05e98124f5c67a7 c84c8ca4f8b6eb2698df7ee10f228628064c703a abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724242577 +0300	commit: WarehouseIcon
+c84c8ca4f8b6eb2698df7ee10f228628064c703a a65775cfebd9178ba8bf23a6a5ee962ca7fa85af abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724309042 +0300	commit: Add Secrol in List Consigments
+a65775cfebd9178ba8bf23a6a5ee962ca7fa85af 799ad9acff732ff9f9f54d75a27065095872ddd4 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724313909 +0300	commit: Add matereal data
+799ad9acff732ff9f9f54d75a27065095872ddd4 610d8b765d842c923a17fd30d84a75fb7cc1e214 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724330005 +0300	commit: Add packeg
+610d8b765d842c923a17fd30d84a75fb7cc1e214 0af96e47f44cdead4c8b521f71b09f38a44bfc8d abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724337849 +0300	commit: Add Fillters Data in Page Tracks
+0af96e47f44cdead4c8b521f71b09f38a44bfc8d d8aeba22d3b0d2be8ac32dfc347fc663798a9557 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724396190 +0300	commit: Edit in Map All locations
+d8aeba22d3b0d2be8ac32dfc347fc663798a9557 c02a06dd88224f38c73f9afdc16d801f52464d11 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724400443 +0300	commit (merge): Merge branch 'raed' of https://git.itmd-cloud.net/itm-core/itm-core into abdulrahman
+c02a06dd88224f38c73f9afdc16d801f52464d11 5d1fd465a05bd1ffb8d5c236de5a0ecb773c447e abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724573903 +0300	commit: Edit in code in tracks page clean code
+5d1fd465a05bd1ffb8d5c236de5a0ecb773c447e 51f63496dc430f8d978594ff35d3f195446553be abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724673148 +0300	commit: Add Page Loding and Edit Fillters
+51f63496dc430f8d978594ff35d3f195446553be 2280ca1e809a613d31a2ce343d3cf85fff223ffb abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724679653 +0300	commit: Edit in desine in page tracks
+2280ca1e809a613d31a2ce343d3cf85fff223ffb 724f26857f18379d2f438b487d2af1aa2aae8917 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724745742 +0300	commit: Edit Noutef Desine UI and UX
+724f26857f18379d2f438b487d2af1aa2aae8917 b48f0b9e0a6d6c210343dd5ed6db0a58cd557af9 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724746166 +0300	commit: Edit Desine in page trask in file map posetion
+b48f0b9e0a6d6c210343dd5ed6db0a58cd557af9 0d5efc9c2f6db062fe5ee4492383d2164e867ac9 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724748159 +0300	commit: Edit in Desin
+0d5efc9c2f6db062fe5ee4492383d2164e867ac9 a49f59c2c1fb6dcf46bae721bc2d7b9c35b4f444 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724767741 +0300	commit: Edit in desine in page tackes
+a49f59c2c1fb6dcf46bae721bc2d7b9c35b4f444 955ae11b4e9db989bc89dec94023d700d5119270 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724833741 +0300	commit: End map and Claster
+955ae11b4e9db989bc89dec94023d700d5119270 03c5d9bedfeb6049d85a7743aa69e7471ea99775 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724842687 +0300	commit: Add Driver Path
+03c5d9bedfeb6049d85a7743aa69e7471ea99775 c94d1860da90c54f2e5ac1cfbfbf9d90c8e2672b abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724854578 +0300	commit: End Edit in page Tracks
+c94d1860da90c54f2e5ac1cfbfbf9d90c8e2672b df98418908072ed6e713b9ae969ce4c2248a0591 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724854626 +0300	commit (merge): Merge branch 'raed' of https://git.itmd-cloud.net/itm-core/itm-core into abdulrahman
+df98418908072ed6e713b9ae969ce4c2248a0591 66814311678ec60676271c2d08c45835b55797b7 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724916041 +0300	commit: Edit Switch in map
+66814311678ec60676271c2d08c45835b55797b7 f2bd8172030103a2b6a5e363cedbf036b2a0c003 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724922636 +0300	commit: Edit in Filters
+f2bd8172030103a2b6a5e363cedbf036b2a0c003 3e74e963cb9e661cc8517b374168219e4594cdd2 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724946252 +0300	commit: Error in fillter data in Tarack
+3e74e963cb9e661cc8517b374168219e4594cdd2 7cef10736c419ab1cea17a6daa57578985930da2 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1724947822 +0300	commit: Clean Code
+7cef10736c419ab1cea17a6daa57578985930da2 7e1f621c27387f37e4ff75c5b7fdcd282bfd9a62 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725009666 +0300	commit: clean Code
+7e1f621c27387f37e4ff75c5b7fdcd282bfd9a62 e355689ee8cb1d3ef8adc10d1fec14f39841c9af abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725187204 +0300	commit: End Edit in Filters
+e355689ee8cb1d3ef8adc10d1fec14f39841c9af d8e5ddcf2d14314bf8eb7ad95f7df44f051a87a8 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725187294 +0300	commit: End Edit Error in page Q
+d8e5ddcf2d14314bf8eb7ad95f7df44f051a87a8 7f9017ef5491186669ebba09d7defcc286c07aec abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725263220 +0300	commit: Clena Code in Page Tracks
+7f9017ef5491186669ebba09d7defcc286c07aec e1d12990580cdbe46cac82a953f5e8b2d12d7121 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725268573 +0300	commit: Edin in tap route
+e1d12990580cdbe46cac82a953f5e8b2d12d7121 0fb951e0413f34e47b41e797a5a4bcbe46c5bb35 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725362507 +0300	commit: Edit in list cards Consigmente=s in page Tracks
+0fb951e0413f34e47b41e797a5a4bcbe46c5bb35 2f5ed0efd81cdcb3e1d65e2e8b5ebce58eca7dee abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725362919 +0300	commit: Add use client
+2f5ed0efd81cdcb3e1d65e2e8b5ebce58eca7dee 1d45139f77476072cde48273284fcff2c07c23b8 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725370956 +0300	commit: Edit in Error in name Librare tester
+1d45139f77476072cde48273284fcff2c07c23b8 bca2b7d95a40b85f4531bb8c406935586917ee45 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725373457 +0300	commit: Add Page Warehouse
+bca2b7d95a40b85f4531bb8c406935586917ee45 8ae9f38bc136b7a164e750bca49774502a5501de abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725442887 +0300	commit: head pges
+8ae9f38bc136b7a164e750bca49774502a5501de 88ab135b1da624c95ead6baa17143eb33219fed7 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725442906 +0300	pull --tags origin raed: Merge made by the 'ort' strategy.
+88ab135b1da624c95ead6baa17143eb33219fed7 e3dda665c38fde9023355ca271345a9c45d111dc abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725443117 +0300	commit: Add Labrate react-spinners
+e3dda665c38fde9023355ca271345a9c45d111dc b43fd449dc907c84082e3cb562f611e4679b541d abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725459055 +0300	commit: Clean Code for show Pages All
+b43fd449dc907c84082e3cb562f611e4679b541d 726d16e5cdefcba4793a06a77c8aa0321476bb4b abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725462440 +0300	commit: Out functions in page tabel
+726d16e5cdefcba4793a06a77c8aa0321476bb4b 1a06e386b80c362f223b77e579efdcf3bf0ffed9 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725463752 +0300	commit: Clean Code in filters and Edit Error
+1a06e386b80c362f223b77e579efdcf3bf0ffed9 03a47dbb2193313749a7c5a1d0f388f76a264311 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725528431 +0300	commit: Edit route Consigments
+03a47dbb2193313749a7c5a1d0f388f76a264311 474bd929958c38acdb30a18b3a5984a008f505ad abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725544575 +0300	commit: Edit in Show Pages
+474bd929958c38acdb30a18b3a5984a008f505ad 53f3c380ec3cc66069855b233f3745d86f0aed13 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725548604 +0300	commit: Clean Code
+53f3c380ec3cc66069855b233f3745d86f0aed13 393265d75ab463527357f74e1b5ba650b8dce61b abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725636714 +0300	commit: Edit in code in page Show Wearehouse and veihcles
+393265d75ab463527357f74e1b5ba650b8dce61b 4362aecfd3f857e947b53525a07208363cac0649 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1725888452 +0300	commit: Edit in map and details in desiner
+4362aecfd3f857e947b53525a07208363cac0649 294169030d459dfb4ae5fe8359c0087d5c32f428 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726049195 +0300	commit: Add Tab Dynamic
+294169030d459dfb4ae5fe8359c0087d5c32f428 32e0ce62992d71054afe5ea5899fd91f1da0603a abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726054000 +0300	commit: End Pages Detilse
+32e0ce62992d71054afe5ea5899fd91f1da0603a 81e4df092e03729298bedaed51170e915498bf76 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726063832 +0300	commit: Applay Dynamic Tab and clean code
+81e4df092e03729298bedaed51170e915498bf76 e9ecae42c0549288d3ccee0242c13b3b27e152a5 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726063943 +0300	commit: clean code
+e9ecae42c0549288d3ccee0242c13b3b27e152a5 a5472f71ab54c74d8b23a77d1e718d27b753b44e abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726066064 +0300	commit: Edit in map
+a5472f71ab54c74d8b23a77d1e718d27b753b44e 67c5afdcc702e4c12500018e2cc9d5b40ae60696 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726122926 +0300	commit: Cline
+67c5afdcc702e4c12500018e2cc9d5b40ae60696 34d8cc860d2fa94a7867f2d2edc160400183effb abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726134678 +0300	commit: clean code and
+34d8cc860d2fa94a7867f2d2edc160400183effb de8e5f550649f0f1f810dee3396225cf521e936b abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726136150 +0300	commit: gg
+de8e5f550649f0f1f810dee3396225cf521e936b 9966999c1547e82620ef19aa21e9436004aa0ab4 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726137966 +0300	pull --tags origin raed: Fast-forward
+9966999c1547e82620ef19aa21e9436004aa0ab4 df0306c634e69ed5b7091a45f6137ee02f5857ac abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726149241 +0300	commit: End Section Consignment/Stops Dynamic code
+df0306c634e69ed5b7091a45f6137ee02f5857ac 12e8eae8285c9f7f47ae4a119e4451b12978a141 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726225685 +0300	commit: card dynamic
+12e8eae8285c9f7f47ae4a119e4451b12978a141 cbe332e034cca49fcb7831e1dc074ffc437fec1e abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726225805 +0300	pull --tags origin raed: Merge made by the 'ort' strategy.
+cbe332e034cca49fcb7831e1dc074ffc437fec1e a463237546c1bdddc01be032503b7bdf5ef22539 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726231017 +0300	commit: Add Filde Map
+a463237546c1bdddc01be032503b7bdf5ef22539 dbae5eef2a5c06f170f5cf295a8fd864a4a282d7 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726239998 +0300	commit: Add Filde Map and Clean code in import pages
+dbae5eef2a5c06f170f5cf295a8fd864a4a282d7 24d538828723b9c5d131d5f27eadcafb621d4e17 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726304868 +0300	commit (merge): ff
+24d538828723b9c5d131d5f27eadcafb621d4e17 c52b2e788dd51866c50cb37d67ba52d5783f1d53 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726304912 +0300	commit: test push
+c52b2e788dd51866c50cb37d67ba52d5783f1d53 a35f55113da8b0ba5dc6b93a24fb4961061f547c abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726315197 +0300	commit: Replace GridData with tabel
+a35f55113da8b0ba5dc6b93a24fb4961061f547c c7f654f3250fb8fe4a08d992e0368ca922076674 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726390896 +0300	commit: Edit Error in pageintions
+c7f654f3250fb8fe4a08d992e0368ca922076674 e0e4d3e9c10502d7f954599661a57faeb90d2510 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726397129 +0300	commit: Add template to data Tabel
+e0e4d3e9c10502d7f954599661a57faeb90d2510 4c47cc6e2207da57befb28e33ac4c151b6baeb7d abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726484975 +0300	commit: Edit in data in tabels
+4c47cc6e2207da57befb28e33ac4c151b6baeb7d b2fda5c1bff2679ca692b8eb5d29033d2dbc5aa5 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726495261 +0300	commit: Edit in Card (Add template to props)
+b2fda5c1bff2679ca692b8eb5d29033d2dbc5aa5 2ab721b5c102b3ebeb7832e5fe9b475294f1e2f6 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726498401 +0300	commit: Edit in name Tab 2 and pagesize 100,200 and Edit in card for conshgnments
+2ab721b5c102b3ebeb7832e5fe9b475294f1e2f6 a673482c095a92b8f23e87417190fc530e921b86 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726555566 +0300	commit: open onclick in switch tabel card
+a673482c095a92b8f23e87417190fc530e921b86 65fd53b3e66eebf5cb886ece4fdec8e313cbf52c abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726555578 +0300	pull --tags origin raed: Merge made by the 'ort' strategy.
+65fd53b3e66eebf5cb886ece4fdec8e313cbf52c 09b79f59af21c8a8f70db109de78a357cc0c5bfa abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726568411 +0300	commit: Add Actions to tabel recorde
+09b79f59af21c8a8f70db109de78a357cc0c5bfa f43780c2aa5eaacdb835867f10061f9adfb930ea abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726568543 +0300	pull --tags origin raed: Merge made by the 'ort' strategy.
+f43780c2aa5eaacdb835867f10061f9adfb930ea 5fdc5d10cfef3c6efcf15374ac29ce4a6cd8ba20 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726570673 +0300	commit: Add Actions in tabel
+5fdc5d10cfef3c6efcf15374ac29ce4a6cd8ba20 b66a7530ce4b8f2c4d4dd13a185a3dae8a3a5432 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726571364 +0300	commit: Edit in Filters
+b66a7530ce4b8f2c4d4dd13a185a3dae8a3a5432 9d2285f3adb58e64ac66f2fcc32e85491eb354f1 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726573222 +0300	commit: Add style in template tabel warehouse name
+9d2285f3adb58e64ac66f2fcc32e85491eb354f1 cceab277298e260afa2ad70679cfb64721ac006e abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726576743 +0300	commit: fixe sort
+cceab277298e260afa2ad70679cfb64721ac006e aaad1337b5d31e1644a5c202333b35f74928abf9 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726740633 +0300	commit: done sortabel and filterabel in tabel
+aaad1337b5d31e1644a5c202333b35f74928abf9 7dc7b69d45cac2c4c800aadb0493e663cd7cacdf abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726746339 +0300	commit: Add Actions in tabel
+7dc7b69d45cac2c4c800aadb0493e663cd7cacdf 913c0067bbe740e7d33461783fa186883ad22ae1 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726816069 +0300	commit: on Change Selection in card tabel
+913c0067bbe740e7d33461783fa186883ad22ae1 2702a004da8cf53c274dc7dbcf949fd2076d85a3 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726816206 +0300	commit (merge): Merge branch 'raed' of https://git.itmd-cloud.net/itm-core/itm-core into abdulrahman
+2702a004da8cf53c274dc7dbcf949fd2076d85a3 fa96988ef27a8178d5872bdc2e7e18c82ca172cb abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726816751 +0300	commit: sortable true filde sereial number
+fa96988ef27a8178d5872bdc2e7e18c82ca172cb 9989f88beddb52db0a827474d3753bd531aaca55 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726818638 +0300	commit: Edit in structure tabel dynamic
+9989f88beddb52db0a827474d3753bd531aaca55 8ce40fc4b0db8ff7ea790f85c4d134bf3114d700 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726819310 +0300	commit: Fix error in columns
+8ce40fc4b0db8ff7ea790f85c4d134bf3114d700 d39617f68c94040049023bb56c9b8ef331217d46 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726848408 +0300	commit: fix in template card tabel
+d39617f68c94040049023bb56c9b8ef331217d46 49854f984f04c310893cbfaf4f40401743f2db47 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726906297 +0300	commit (merge): Merge branch 'raed' of https://git.itmd-cloud.net/itm-core/itm-core into abdulrahman
+49854f984f04c310893cbfaf4f40401743f2db47 3a763c6595629b36eed7e449985eea60ae937102 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726906822 +0300	commit: Clean Code for build
+3a763c6595629b36eed7e449985eea60ae937102 0347c52ca7e7258740adf20f287c9a1604f49b95 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1726906862 +0300	commit: clean commint
+0347c52ca7e7258740adf20f287c9a1604f49b95 9bffd83d6d40c3876d0e2f54fc9a848845d9b704 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727085853 +0300	commit: fax error in card tabel
+9bffd83d6d40c3876d0e2f54fc9a848845d9b704 53a3a0b5464a14e9bad8c1aff9e95b2c9249e8c1 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727085872 +0300	pull --tags origin raed: Merge made by the 'ort' strategy.
+53a3a0b5464a14e9bad8c1aff9e95b2c9249e8c1 7995b0379a3444612e7b9d384dc6f5b3568706bf abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727097714 +0300	commit: fex all error in card
+7995b0379a3444612e7b9d384dc6f5b3568706bf 23efc372d7d22d308643a08ee39dab248173e34a abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727101185 +0300	commit: Fix error in filde filter
+23efc372d7d22d308643a08ee39dab248173e34a 137dd0298c4443872d017886713040e096ea6bc0 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727102261 +0300	commit: Edit in filter Autocomplete
+137dd0298c4443872d017886713040e096ea6bc0 84c0674bc7a18233c6cfbba887f1e22e7ce62a84 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727104653 +0300	commit: edit error in map z
+84c0674bc7a18233c6cfbba887f1e22e7ce62a84 250d60e4c67e2d0b44cb192fb894ebd1a7b53ef3 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727170569 +0300	commit: Update desine orginzations
+250d60e4c67e2d0b44cb192fb894ebd1a7b53ef3 fa13795a933ae05b900e56dfe0e34cdd98ac78af abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727248909 +0300	commit: clean code
+fa13795a933ae05b900e56dfe0e34cdd98ac78af edc8bfeffcf5f971d2f44da7cad2969aff25f627 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727248922 +0300	pull --tags origin raed: Merge made by the 'ort' strategy.
+edc8bfeffcf5f971d2f44da7cad2969aff25f627 775d74c7ca9daee24aaf0c3a1f03b7ad76a17ecc abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727251908 +0300	commit: Add history driver in map
+775d74c7ca9daee24aaf0c3a1f03b7ad76a17ecc 32705da328f67b9a352f43bc398689f1df98aed2 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727341495 +0300	commit: done tabel in page detailse route
+32705da328f67b9a352f43bc398689f1df98aed2 5797ec8d41ccda5b8339a1d537ad3a2d32f06b34 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727344637 +0300	commit: clean code detailse tabel in route
+5797ec8d41ccda5b8339a1d537ad3a2d32f06b34 0fd330540dc4eb129af5e9f561495d62d9dba79c abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727364858 +0300	commit: Add User page and Invite User
+0fd330540dc4eb129af5e9f561495d62d9dba79c 971c98b251998d2723691b1fa624bd9b0719cb90 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727425685 +0300	commit: poss data selectId employees and send Ids to botten delete employee
+971c98b251998d2723691b1fa624bd9b0719cb90 80c8dda654344f139b813521345b9bb1c36582be abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727439161 +0300	commit: test push
+80c8dda654344f139b813521345b9bb1c36582be fd326885ebac91f75484f06cd6411476d13a8869 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727439397 +0300	commit: tt
+fd326885ebac91f75484f06cd6411476d13a8869 0513b9656fd6481819b0a910c065e88677cb8910 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727439612 +0300	pull --tags origin raed: Fast-forward
+0513b9656fd6481819b0a910c065e88677cb8910 fd326885ebac91f75484f06cd6411476d13a8869 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727439870 +0300	checkout: moving from abdulrahman to fd32688
+fd326885ebac91f75484f06cd6411476d13a8869 d420f3393bc5d6877526a41959f10abe886ef918 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727440018 +0300	commit: test roolback
+d420f3393bc5d6877526a41959f10abe886ef918 fd326885ebac91f75484f06cd6411476d13a8869 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727440100 +0300	reset: moving to HEAD~1
+fd326885ebac91f75484f06cd6411476d13a8869 0513b9656fd6481819b0a910c065e88677cb8910 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727440106 +0300	checkout: moving from fd326885ebac91f75484f06cd6411476d13a8869 to abdulrahman
+0513b9656fd6481819b0a910c065e88677cb8910 c317aa7e6f4ffe07b655b036f14c3c4e422f18ef abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727440117 +0300	reset: moving to HEAD~1
+c317aa7e6f4ffe07b655b036f14c3c4e422f18ef 0513b9656fd6481819b0a910c065e88677cb8910 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727440190 +0300	pull --tags origin abdulrahman: Fast-forward
+0513b9656fd6481819b0a910c065e88677cb8910 c317aa7e6f4ffe07b655b036f14c3c4e422f18ef abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727440233 +0300	reset: moving to HEAD~1
+c317aa7e6f4ffe07b655b036f14c3c4e422f18ef db9a9bbe77b26abb89926086048d8ddc2ea38354 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727440240 +0300	reset: moving to HEAD~1
+db9a9bbe77b26abb89926086048d8ddc2ea38354 e96174d8862ae75c2be9612b57e7262f21aafa5a abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727440254 +0300	reset: moving to HEAD~1
+e96174d8862ae75c2be9612b57e7262f21aafa5a 7710a75419e28cdc9b34382cdeea5e543bb35282 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727440280 +0300	reset: moving to HEAD~1
+7710a75419e28cdc9b34382cdeea5e543bb35282 521478b7ca9e6501f24b1b070b3f2cf36041d836 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727440297 +0300	reset: moving to HEAD~1
+521478b7ca9e6501f24b1b070b3f2cf36041d836 f0bdcbc9c439809f55f6c68d60fa3e262c3b42cd abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727440392 +0300	reset: moving to HEAD~1
+f0bdcbc9c439809f55f6c68d60fa3e262c3b42cd 855b95c5999cb0ee5a9ee58e7735dc7992a0e496 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727440637 +0300	commit: m -t
+855b95c5999cb0ee5a9ee58e7735dc7992a0e496 37bcad75784f5675776a368995302bb31425a2ec abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727440648 +0300	pull --tags origin abdulrahman: Merge made by the 'ort' strategy.
+37bcad75784f5675776a368995302bb31425a2ec fd326885ebac91f75484f06cd6411476d13a8869 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727440801 +0300	reset: moving to fd32688
+fd326885ebac91f75484f06cd6411476d13a8869 9b721b87d33a696fca3384ccfb7c5aba6efe0f02 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727441394 +0300	pull --tags origin raed: Merge made by the 'ort' strategy.
+9b721b87d33a696fca3384ccfb7c5aba6efe0f02 fd326885ebac91f75484f06cd6411476d13a8869 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727441798 +0300	reset: moving to fd32688
+fd326885ebac91f75484f06cd6411476d13a8869 56d8249db7822d6f55c5a5a265b510c00757a07e abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727442156 +0300	checkout: moving from abdulrahman to formmerge
+56d8249db7822d6f55c5a5a265b510c00757a07e fd326885ebac91f75484f06cd6411476d13a8869 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727442198 +0300	checkout: moving from formmerge to abdulrahman
+fd326885ebac91f75484f06cd6411476d13a8869 fd326885ebac91f75484f06cd6411476d13a8869 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727442293 +0300	checkout: moving from abdulrahman to abd-m
+fd326885ebac91f75484f06cd6411476d13a8869 56d8249db7822d6f55c5a5a265b510c00757a07e abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727442401 +0300	pull --tags origin raed: Fast-forward
+56d8249db7822d6f55c5a5a265b510c00757a07e fd326885ebac91f75484f06cd6411476d13a8869 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727442506 +0300	reset: moving to fd32688
+fd326885ebac91f75484f06cd6411476d13a8869 fd326885ebac91f75484f06cd6411476d13a8869 abdulrahman_sr <homjpkatarhom6468@gmail.com> 1727442967 +0300	checkout: moving from abd-m to abdulrahman

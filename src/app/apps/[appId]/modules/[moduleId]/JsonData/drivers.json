@@ -1,0 +1,115 @@
+[
+    {
+        "moduleId": "4aab091a-01d2-4222-f8ba-08dcabe593ad",
+        "dataSourceId": "8c6a32d5-960c-403a-69cd-08dcabe60c47",
+        "title": "Drive Details",
+        "type": "Columns",
+        "columns": 5,
+        "showColumns": 5,
+        "creatable": false,
+        "editable": false,
+        "sortOrder": 1,
+        "fields": [
+            {
+                "propertyName": "id",
+                "label": "ID",
+                "dataType": "String",
+                "sortOrder": 1,
+                "disabled": false,
+                "creatable": false,
+                "filterable": true,
+                "sortable": true,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "employee",
+                "label": "Employee",
+                "dataType": "String",
+                "sortOrder": 2,
+                "disabled": false,
+                "creatable": false,
+                "filterable": false,
+                "sortable": true,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "WarehouseId",
+                "label": " Warehouse",
+                "dataType": "fromModules",
+                "dataSource": {
+                    "name": "api/Warehouses",
+                    "keyFieldName": "name"
+                },
+                "multiple": false,
+                "required": true,
+                "sortOrder": 4,
+                "disabled": false,
+                "creatable": true,
+                "filterable": true,
+                "sortable": false,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "employeeId",
+                "label": " Employee",
+                "dataType": "fromModules",
+                "dataSource": {
+                    "name": "api/identity/organization-users",
+                    "keyFieldName": "email"
+                },
+                "multiple": false,
+                "required": true,
+                "sortOrder": 5,
+                "disabled": false,
+                "creatable": true,
+                "filterable": false,
+                "sortable": false,
+                "readOnly": false,
+                "editable": true
+            }
+        ]
+    },
+    {
+        "moduleId": "4aalkb091a-01d2-4222-f8ba-08dcabe593ad",
+        "dataSourceId": "8ckjk6a32d5-960c-403a-69cd-08dcabe60c47",
+        "title": "Drive Details",
+        "type": "Taps",
+        "columns": 3,
+        "showColumns": 3,
+        "creatable": false,
+        "editable": true,
+        "sortOrder": 1,
+        "fields": [],
+        "taps": [
+            {
+                "label": "Route",
+                "searchableKey": "name",
+                "value": 1,
+                "template": "Route",
+                "keyNameInUrlParameter": "route_id",
+                "dataSource": {
+                    "name": "api/routes",
+                    "keyFieldName": "name",
+                    "id": "de38c5a2-esddd-4073-4e2a-08dca17d6fed"
+                }
+            },
+            {
+                "label": "Drives",
+                "searchableKey": "name",
+                "value": 2,
+                "template": "Driver",
+                "keyNameInUrlParameter": "driver_id",
+                "dataSource": {
+                    "name": "api/drivers",
+                    "keyFieldName": "name",
+                    "id": "de38c5a2-esddd-4073-4e2a-08dca17d6fed"
+                }
+            }
+        ]
+    }
+]

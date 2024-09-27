@@ -1,0 +1,301 @@
+[
+    {
+        "title": "Consignment Details",
+        "type": "Columns",
+        "sortOrder": 0,
+        "columns": 3,
+        "showColumns": 3,
+        "additionalIdentifier": null,
+        "tabGroup": null,
+        "icon": null,
+        "creatable": true,
+        "editable": true,
+        "disabled": null,
+        "columnSettingsParsed": [],
+        "additionalInformationParsed": null,
+        "dataSource": null,
+        "fields": [
+            {
+                "propertyName": "documentNumber",
+                "label": " Document Number",
+                "dataType": "String",
+                "sortOrder": 1,
+                "disabled": false,
+                "creatable": true,
+                "filterable": true,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "email",
+                "label": " Email",
+                "dataType": "String",
+                "sortOrder": 1,
+                "disabled": false,
+                "creatable": true,
+                "filterable": true,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true,
+                "conditions": [
+                    "email"
+                ]
+            },
+            {
+                "propertyName": "phoneNumber",
+                "label": " Phone Number",
+                "dataType": "String",
+                "sortOrder": 3,
+                "disabled": false,
+                "creatable": true,
+                "filterable": true,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true,
+                "conditions": [
+                    "phone"
+                ]
+            },
+            {
+                "propertyName": "address",
+                "label": " Address",
+                "dataType": "Text",
+                "sortOrder": 2,
+                "disabled": false,
+                "creatable": true,
+                "filterable": true,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "customerName",
+                "label": " Customer Name",
+                "dataType": "String",
+                "sortOrder": 1,
+                "disabled": false,
+                "creatable": false,
+                "filterable": true,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "routeId",
+                "label": " Route Name",
+                "dataType": "String",
+                "sortOrder": 1,
+                "disabled": false,
+                "creatable": false,
+                "filterable": false,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "warehouseId",
+                "label": " Warehouse",
+                "dataType": "fromModules",
+                "dataSource": {
+                    "name": "api/Warehouses",
+                    "keyFieldName": "name"
+                },
+                "multiple": false,
+                "required": true,
+                "sortOrder": 1,
+                "disabled": false,
+                "creatable": true,
+                "filterable": true,
+                "sortable": false,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "documentType",
+                "label": " Document Type",
+                "dataType": "static",
+                "options": [
+                    {
+                        "label": "Order",
+                        "value": "Order"
+                    },
+                    {
+                        "label": "Quotation",
+                        "value": "Quotation"
+                    },
+                    {
+                        "label": "Delivery",
+                        "value": "Delivery"
+                    }
+                ],
+                "multiple": false,
+                "sortOrder": 1,
+                "disabled": false,
+                "creatable": true,
+                "filterable": true,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            }
+        ],
+        "id": "9b221a21-58b5-4c66-2910-08dca17e2536",
+        "localizations": null,
+        "areas": null,
+        "isSystem": false,
+        "organizationId": "83855f35-7ce6-43fa-2e26-08dc9ff977f0"
+    },
+    {
+        "title": "Consignment Location on Map",
+        "type": "Map",
+        "columns": 9,
+        "showColumns": 9,
+        "creatable": true,
+        "editable": true,
+        "sortOrder": 0,
+        "additionalIdentifier": null,
+        "tabGroup": null,
+        "icon": null,
+        "disabled": null,
+        "columnSettingsParsed": [],
+        "additionalInformationParsed": null,
+        "dataSource": null,
+        "fields": [
+            {
+                "propertyName": "documentNumber",
+                "label": " Document Number",
+                "dataType": "String",
+                "sortOrder": 1,
+                "disabled": false,
+                "creatable": true,
+                "filterable": true,
+                "sortable": true,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "email",
+                "label": " Email",
+                "dataType": "String",
+                "sortOrder": 1,
+                "disabled": false,
+                "creatable": true,
+                "filterable": true,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "phoneNumber",
+                "label": " Phone Number",
+                "dataType": "String",
+                "sortOrder": 3,
+                "disabled": false,
+                "creatable": true,
+                "filterable": true,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "address",
+                "label": " Address",
+                "dataType": "Text",
+                "sortOrder": 2,
+                "disabled": false,
+                "creatable": true,
+                "filterable": true,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "customerName",
+                "label": " Customer Name",
+                "dataType": "String",
+                "sortOrder": 1,
+                "disabled": false,
+                "creatable": false,
+                "filterable": true,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "warehouseId",
+                "label": " Warehouse",
+                "dataType": "fromModules",
+                "dataSource": {
+                    "name": "api/Warehouses",
+                    "keyFieldName": "name"
+                },
+                "multiple": false,
+                "required": true,
+                "sortOrder": 1,
+                "disabled": false,
+                "creatable": true,
+                "filterable": false,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "documentType",
+                "label": " Document Type",
+                "dataType": "static",
+                "options": [
+                    {
+                        "label": "Order",
+                        "value": "Order"
+                    },
+                    {
+                        "label": "Quotation",
+                        "value": "Quotation"
+                    },
+                    {
+                        "label": "Delivery",
+                        "value": "Delivery"
+                    }
+                ],
+                "multiple": false,
+                "sortOrder": 1,
+                "disabled": false,
+                "creatable": true,
+                "filterable": true,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "location",
+                "label": " map Consignment",
+                "dataType": "map",
+                "sortOrder": 2,
+                "disabled": false,
+                "creatable": true,
+                "filterable": true,
+                "sortable": false,
+                "required": false,
+                "readOnly": false,
+                "editable": true
+            }
+        ],
+        "id": "9b221a21-58b5-4c66-2910sd-08dca17e2536",
+        "localizations": null,
+        "areas": null,
+        "isSystem": false,
+        "organizationId": "83855f35-7ce6-43fa-2e26-08dc9ff977f0"
+    }
+]

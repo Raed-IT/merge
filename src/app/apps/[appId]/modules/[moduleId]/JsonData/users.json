@@ -1,0 +1,73 @@
+[
+    {
+        "moduleId": "271c5fa9-8b07-4d0f-2df8-08dcde251d9b",
+        "dataSourceId": "8c6a32d5-960c-403a-69cd-08dcabe60c47",
+        "title": "Users Details",
+        "type": "Columns",
+        "columns": 5,
+        "showColumns": 5,
+        "creatable": false,
+        "editable": false,
+        "sortOrder": 1,
+        
+        "fields": [
+            {
+                "propertyName": "id",
+                "label": "ID",
+                "dataType": "String",
+                "sortOrder": 1,
+                "disabled": false,
+                "creatable": false,
+                "filterable": true,
+                "sortable": true,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "email",
+                "label": "Email",
+                "dataType": "String",
+                "sortOrder": 2,
+                "disabled": false,
+                "creatable": false,
+                "filterable": true,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "firstName",
+                "label": "First Name",
+                "dataType": "String",
+                "sortOrder": 2,
+                "disabled": false,
+                "creatable": false,
+                "filterable": true,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            },
+            {
+                "propertyName": "lastName",
+                "label": "Last Name",
+                "dataType": "String",
+                "sortOrder": 2,
+                "disabled": false,
+                "creatable": false,
+                "filterable": true,
+                "sortable": false,
+                "required": true,
+                "readOnly": false,
+                "editable": true
+            }
+        ],
+        "id": "9c28b9c2-4a62-451f-6660-08dcde25400a",
+        "localizations": null,
+        "areas": null,
+        "isSystem": false,
+        "organizationId": "83855f35-7ce6-43fa-2e26-08dc9ff977f0"
+    }
+]

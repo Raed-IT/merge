@@ -1,0 +1,616 @@
+{
+  "currentUser": {
+    "organizationId": "83855f35-7ce6-43fa-2e26-08dc9ff977f0",
+    "organizationName": "Sappro",
+    "id": "e6d14d45-4e9b-4041-b6b6-7032a79df7bb",
+    "role": "Employee",
+    "email": "sappro@gmail.com",
+    "firstName": "Raed  ",
+    "middleName": "",
+    "lastName": "Sawan",
+    "isActive": true
+  },
+  "apps": [
+    {
+      "code": "code",
+      "name": "POD",
+      "indexUrl": "/apps/{appId}/modules/tracks",
+      "rootMenuId": "9fd86471-3158-42b8-e2c2-08dca1ab7b3c",
+      "description": "POD app shipping mangment",
+      "rootMenu": {
+        "roles": null,
+        "label": "POD Root Menu",
+        "parentMenuId": null,
+        "type": "Folder",
+        "sortOrder": 1,
+        "icon": null,
+        "url": "tracks",
+        "target": null,
+        "additionalInformationParsed": null,
+        "childMenus": null,
+        "id": "9fd86471-3158-42b8-e2c2-08dca1ab7b3c",
+        "localizations": null,
+        "areas": null,
+        "isSystem": false,
+        "organizationId": "83855f35-7ce6-43fa-2e26-08dc9ff977f0"
+      },
+      "id": "93cfd07d-3528-4abd-c469-08dca0025cbd",
+      "localizations": null,
+      "areas": null,
+      "isSystem": false,
+      "organizationId": "83855f35-7ce6-43fa-2e26-08dc9ff977f0"
+    }
+  ],
+  "menus": [
+    {
+      "label": "Tracks",
+      "parentMenuId": "9fd86471-3158-42b8-e2c2-08dca1ab7b3c",
+      "type": "Link",
+      "sortOrder": 1,
+      "icon": null,
+      "url": "/apps/{appId}/modules/tracks",
+      "target": "",
+      "childMenus": [],
+      "id": "170e1b35-5010-4dfc-99a6-08dca19caa3f"
+    },
+    {
+      "label": "Routes",
+      "parentMenuId": "9fd86471-3158-42b8-e2c2-08dca1ab7b3c",
+      "type": "Link",
+      "sortOrder": 2,
+      "url": "/apps/{appId}/modules/a0a61cd8-14ae-46f2-9954-08dca24c1348",
+      "target": "",
+      "childMenus": [],
+      "id": "673ba5d5-5aef-42ec-99a7-08dca19caa3f"
+    },
+    {
+      "label": "Consignment",
+      "parentMenuId": "9fd86471-3158-42b8-e2c2-08dca1ab7b3c",
+      "type": "Link",
+      "sortOrder": 3,
+      "url": "/apps/{appId}/modules/d48d0d9b-f1d0-470d-17ce-08dca17c401a",
+      "target": "",
+      "childMenus": [],
+      "id": "94be5e4d-6743-497a-99a8-08dca19caa3f"
+    },
+    {
+      "label": "Drivers",
+      "parentMenuId": "9fd86471-3158-42b8-e2c2-08dca1ab7b3c",
+      "type": "Link",
+      "sortOrder": 4,
+      "url": "/apps/{appId}/modules/drivers",
+      "target": "_blank",
+      "childMenus": [],
+      "id": "1c17976c-be81-4c3b-99a9-08dca19caa3f"
+    },
+    {
+      "label": "Vehicles",
+      "parentMenuId": "9fd86471-3158-42b8-e2c2-08dca1ab7b3c",
+      "type": "Link",
+      "sortOrder": 5,
+      "url": "/apps/{appId}/modules/4aab091a-01d2-4222-f8ba-08dcabe593ad",
+      "target": "",
+      "childMenus": [],
+      "id": "4525ee80-2eea-4c89-99aa-08dca19caa3f"
+    },
+    {
+      "label": "POD Root Menu",
+      "type": "Folder",
+      "sortOrder": 1,
+      "url": "tracks",
+      "childMenus": [
+        {
+          "label": "Tracks",
+          "parentMenuId": "9fd86471-3158-42b8-e2c2-08dca1ab7b3c",
+          "type": "Link",
+          "sortOrder": 1,
+          "url": "/apps/{appId}/modules/tracks",
+          "target": "",
+          "childMenus": [],
+          "id": "170e1b35-5010-4dfc-99a6-08dca19caa3f"
+        },
+        {
+          "label": "Routes",
+          "parentMenuId": "9fd86471-3158-42b8-e2c2-08dca1ab7b3c",
+          "type": "Link",
+          "sortOrder": 2,
+          "url": "/apps/{appId}/modules/a0a61cd8-14ae-46f2-9954-08dca24c1348",
+          "target": "",
+          "childMenus": [],
+          "id": "673ba5d5-5aef-42ec-99a7-08dca19caa3f"
+        },
+        {
+          "label": "Consignment",
+          "parentMenuId": "9fd86471-3158-42b8-e2c2-08dca1ab7b3c",
+          "type": "Link",
+          "sortOrder": 3,
+          "url": "/apps/{appId}/modules/d48d0d9b-f1d0-470d-17ce-08dca17c401a",
+          "target": "",
+          "childMenus": [],
+          "id": "94be5e4d-6743-497a-99a8-08dca19caa3f"
+        },
+        {
+          "label": "Drivers",
+          "parentMenuId": "9fd86471-3158-42b8-e2c2-08dca1ab7b3c",
+          "type": "Link",
+          "sortOrder": 4,
+          "url": "/apps/{appId}/modules/drivers",
+          "target": "_blank",
+          "childMenus": [],
+          "id": "1c17976c-be81-4c3b-99a9-08dca19caa3f"
+        },
+        {
+          "label": "Vehicles",
+          "parentMenuId": "9fd86471-3158-42b8-e2c2-08dca1ab7b3c",
+          "type": "Link",
+          "sortOrder": 5,
+          "url": "/apps/{appId}/modules/4aab091a-01d2-4222-f8ba-08dcabe593ad",
+          "target": "",
+          "childMenus": [],
+          "id": "4525ee80-2eea-4c89-99aa-08dca19caa3f"
+        }
+      ],
+      "id": "9fd86471-3158-42b8-e2c2-08dca1ab7b3c"
+    }
+  ],
+  "modules": [
+    {
+      "name": "Consignment",
+      "pluralName": "Consignments",
+      "orderByScript": "CreateDate",
+      "dataSourceId": "de38c5a2-ee29-4073-4e2a-08dca17d6fed",
+      "sqlStatementData": {
+        "name": "api/Consignments",
+        "id": "de38c5a2-ee29-4073-4e2a-08dca17d6fed"
+      },
+      "sections": [
+        {
+          "dataSourceId": null,
+          "title": "Consignment Details",
+          "type": "Columns",
+          "sortOrder": 0,
+          "additionalIdentifier": null,
+          "tabGroup": null,
+          "icon": null,
+          "disabled": null,
+          "columnSettingsParsed": [],
+          "additionalInformationParsed": null,
+          "dataSource": null,
+          "fields": [
+            {
+              "propertyName": "email",
+              "label": " Email",
+              "dataType": "String",
+              "sortOrder": 1,
+              "disabled": false,
+              "creatable": true,
+              "filterable": true,
+              "required": true,
+              "readOnly": false,
+              "editable": true
+            },
+            {
+              "propertyName": "address",
+              "label": " Address",
+              "dataType": "Text",
+              "sortOrder": 2,
+              "disabled": false,
+              "creatable": true,
+              "filterable": true,
+              "required": true,
+              "readOnly": false,
+              "editable": true
+            },
+            {
+              "propertyName": "phoneNumber",
+              "label": " Phone Number",
+              "dataType": "String",
+              "sortOrder": 3,
+              "disabled": false,
+              "creatable": true,
+              "filterable": true,
+              "required": true,
+              "readOnly": false,
+              "editable": true
+            },
+            {
+              "propertyName": "customerName",
+              "label": " Customer Name",
+              "dataType": "String",
+              "sortOrder": 1,
+              "disabled": false,
+              "creatable": true,
+              "filterable": true,
+              "required": true,
+              "readOnly": false,
+              "editable": true
+            },
+            {
+              "propertyName": "warehouse",
+              "label": " Warehouse",
+              "dataType": "fromModules",
+              "dataSource": {
+                "name": "api/Warehouses",
+                "keyFieldName": "name",
+                "id": "de38c5a2-ee29-4073-4e2a-08dca17d6fed"
+              },
+              "multiple": true,
+              "sortOrder": 1,
+              "disabled": false,
+              "creatable": true,
+              "filterable": true,
+              "required": true,
+              "readOnly": false,
+              "editable": true
+            },
+            {
+              "propertyName": "type",
+              "label": " Consignment type",
+              "dataType": "static",
+              "options": [
+                {
+                  "label": "Consignment",
+                  "value": "Consignment"
+                },
+                {
+                  "label": "DropShip",
+                  "value": "DropShip"
+                },
+                {
+                  "label": "BinLocation",
+                  "value": "BinLocation"
+                }
+              ],
+              "multiple": false,
+              "sortOrder": 1,
+              "disabled": false,
+              "creatable": true,
+              "filterable": true,
+              "required": true,
+              "readOnly": false,
+              "editable": true
+            }
+          ],
+          "id": "9b221a21-58b5-4c66-2910-08dca17e2536",
+          "localizations": null,
+          "areas": null,
+          "isSystem": false,
+          "organizationId": "83855f35-7ce6-43fa-2e26-08dc9ff977f0"
+        }
+      ],
+      "actions": [
+        {
+          "name": "clone",
+          "icon": "FolderCopyIcon",
+          "sortOrder": 0,
+          "id": "7fc3b69c-1af3-40a0-79ee-08dcae15d92c"
+        },
+        {
+          "name": "Copy To",
+          "icon": "SendIcon",
+          "sortOrder": 0,
+          "id": "3df69332-ca68-47f9-79ef-08dcae15d92c"
+        },
+        {
+          "name": "Print to",
+          "icon": "PrintIcon",
+          "sortOrder": 0,
+          "id": "f5230756-7013-44e4-79f0-08dcae15d92c"
+        }
+      ],
+      "id": "d48d0d9b-f1d0-470d-17ce-08dca17c401a"
+    },
+    {
+      "name": "Routes",
+      "pluralName": "Routes",
+      "orderByScript": "Routes",
+      "dataSourceId": "1f5de135-9760-46ad-c344-08dca24c4273",
+      "sqlStatementData": {
+        "name": "/api/routes",
+        "id": "1f5de135-9760-46ad-c344-08dca24c4273"
+      },
+      "sections": [
+        {
+          "title": "Routes Information",
+          "type": "Table",
+          "sortOrder": 0,
+          "fields": [
+            {
+              "propertyName": "id",
+              "label": "ID",
+              "dataType": "String",
+              "sortOrder": 100,
+              "disabled": false,
+              "creatable": false,
+              "filterable": true,
+              "required": false,
+              "readOnly": true,
+              "editable": false,
+              "maxLength": null,
+              "id": "3b664834-de01-4cc8-e37b-08dca7227be0"
+            },
+            {
+              "propertyName": "date",
+              "label": "Date",
+              "dataType": "Date",
+              "sortOrder": 100,
+              "disabled": false,
+              "creatable": true,
+              "filterable": true,
+              "required": true,
+              "readOnly": false,
+              "editable": true,
+              "id": "47cb8ba0-0284-4d9b-e37c-08dca7227be0"
+            },
+            {
+              "propertyName": "time",
+              "label": "Time ",
+              "dataType": "Time",
+              "sortOrder": 100,
+              "disabled": false,
+              "creatable": true,
+              "filterable": true,
+              "required": true,
+              "readOnly": false,
+              "editable": true,
+              "id": "47dscb8ba0-0284-4d9b-e37c-08dca7227be0"
+            },
+            {
+              "propertyName": "returnToStart",
+              "defaultCheck":false,
+              "label": "Return To Start ",
+              "dataType": "Checkbox",
+              "sortOrder": 100,
+              "disabled": false,
+              "creatable": true,
+              "filterable": true,
+              "required": true,
+              "readOnly": false,
+              "editable": true,
+              "id": "47cb8bassd0-0284-4d9b-e37c-08dca7227be0"
+            },
+            {
+              "propertyName": "consignments",
+              "defaultCheck":false,
+              "label": "Consignments ",
+              "dataType": "fromModules",
+              "sortOrder": 100,
+              "disabled": false,
+              "multiple":true,
+              "creatable": true,
+              "filterable": true,
+              "dataSource": {
+                "name": "api/Consignments",
+                "keyFieldName": "address",
+                "id": "de38c5a2-ee29-4073-4e2a-08dca17d6fed"
+              },
+              "required": true,
+              "readOnly": false,
+              "editable": true,
+              "id": "47cb8bassd0-0284-4d9b-e37c-08dca7227be0"
+            }
+
+          ],
+          "id": "567f8205-56cc-4ada-63fd-08dca7220d9d"
+        }
+      ],
+      "actions": [],
+      "id": "a0a61cd8-14ae-46f2-9954-08dca24c1348"
+    },
+    {
+      "name": "Vehicles",
+      "pluralName": "Vehicles",
+      "orderByScript": "Vehicles",
+      "dataSourceId": "8c6a32d5-960c-403a-69cd-08dcabe60c47",
+      "sqlStatementData": {
+        "name": "/api/vehicles",
+        "id": "8c6a32d5-960c-403a-69cd-08dcabe60c47"
+      },
+      "sections": [
+        {
+          "moduleId": "4aab091a-01d2-4222-f8ba-08dcabe593ad",
+          "dataSourceId": "8c6a32d5-960c-403a-69cd-08dcabe60c47",
+          "title": "Vehicles Details",
+          "type": "Columns",
+          "sortOrder": 0,
+          "fields": [
+            {
+              "sectionId": "2ccc1cf3-5c3a-4dd6-4b3d-08dcabe6a4c7",
+              "propertyName": "name",
+              "label": "Vehicle Name",
+              "dataType": "String",
+              "sortOrder": 100,
+              "disabled": false,
+              "creatable": true,
+              "filterable": true,
+              "required": true,
+              "readOnly": false,
+              "editable": false,
+              "id": "fa6f6c5c-22cb-4e91-66bb-08dcabe6f854"
+            },
+            {
+              "sectionId": "2ccc1cf3-5c3a-4dd6-4b3d-08dcabe6a4c7",
+              "propertyName": "status",
+              "label": "Status ",
+              "dataType": "static",
+              "multiple": true,
+              "options": [
+                {
+                  "label": "Active",
+                  "value": "active"
+                },
+                {
+                  "label": "Inactive",
+                  "value": "inactive"
+                },
+                {
+                  "label": "Pending",
+                  "value": "pending"
+                }
+              ],
+              "sortOrder": 100,
+              "disabled": false,
+              "creatable": true,
+              "filterable": true,
+              "required": true,
+              "readOnly": false,
+              "editable": false,
+              "id": "b0fb3ede-0ad3-4e99-66bc-08dcabe6f854"
+            },
+            {
+              "sectionId": "2ccc1cf3-5c3a-4dd6-4b3d-08dcabe6a4c7",
+              "propertyName": "description",
+              "label": "Description ",
+              "dataType": "Text",
+              "sortOrder": 100,
+              "disabled": false,
+              "creatable": true,
+              "filterable": true,
+              "required": false,
+              "readOnly": false,
+              "editable": false,
+              "id": "5814b7b6-5090-4ffe-937f-08dcad6ebd03"
+            }
+          ],
+          "id": "2ccc1cf3-5c3a-4dd6-4b3d-08dcabe6a4c7"
+        }
+      ],
+      "moduleButtons": [],
+      "actions": [],
+      "id": "4aab091a-01d2-4222-f8ba-08dcabe593ad"
+    }
+  ],
+  "dataSources": [
+    {
+      "name": "api/Consignments",
+      "keyFieldName": null,
+      "id": "de38c5a2-ee29-4073-4e2a-08dca17d6fed"
+    },
+    {
+      "name": "/api/routes",
+      "keyFieldName": null,
+      "id": "1f5de135-9760-46ad-c344-08dca24c4273"
+    },
+    {
+      "name": "api/Warehouses",
+      "keyFieldName": "name",
+      "id": "cd49a973-c2a2-4d0e-e068-08dca7f54d7b"
+    },
+    {
+      "name": "/api/vehicles",
+      "keyFieldName": null,
+      "id": "8c6a32d5-960c-403a-69cd-08dcabe60c47"
+    },
+    {
+      "name": "/api/layout/DataSources",
+      "keyFieldName": null,
+      "id": "86a12aca-e556-49b5-4a40-08dcad4e0af9"
+    }
+  ],
+  "consignments": [
+    {
+      "documentType": "Order",
+      "documentId": "11",
+      "documentNumber": "978784",
+      "dueDate": "0001-01-01T00:00:00",
+      "status": "Pending",
+      "address": "Random Address",
+      "email": "gjvjvhjj@email.com",
+      "phoneNumber": "+905440334033",
+      "customerName": null,
+      "latitude": null,
+      "longitude": null,
+      "isValidAddress": false,
+      "routeId": null,
+      "warehouseId": "dce6f07e-4058-4eac-74e9-08dca17fda54",
+      "assets": [],
+      "id": "5d5b4086-f210-4801-2473-08dcbd0b3488",
+      "createDate": "2024-08-15T09:18:20.103526",
+      "updateDate": "2024-08-15T09:18:20.1035414",
+      "createdBy": "e6d14d45-4e9b-4041-b6b6-7032a79df7bb",
+      "updatedBy": "e6d14d45-4e9b-4041-b6b6-7032a79df7bb"
+    },
+    {
+      "documentType": 0,
+      "documentId": "4500",
+      "documentNumber": "9800",
+      "dueDate": "2024-08-31T00:00:00",
+      "status": "Pending",
+      "address": "700 Rue Principale, Granby, QC J2G 2Y4, Canada",
+      "email": "sappro@gmail.com",
+      "phoneNumber": "",
+      "customerName": "John Doe",
+      "latitude": 45.409047,
+      "longitude": -72.745666,
+      "isValidAddress": true,
+      "routeId": "01a48b2f-4a2d-4929-d32a-08dcbc6a953e",
+      "warehouseId": "dce6f07e-4058-4eac-74e9-08dca17fda54",
+      "assets": [],
+      "id": "7657ed0d-e290-4d36-ff13-08dcbc73b2a6",
+      "createDate": "2024-08-14T15:19:35.5020238",
+      "updateDate": "2024-08-14T15:19:35.5020317",
+      "createdBy": "e6d14d45-4e9b-4041-b6b6-7032a79df7bb",
+      "updatedBy": "e6d14d45-4e9b-4041-b6b6-7032a79df7bb"
+    }
+  ],
+  "warehouses": [
+    {
+      "id": "0865fdb7-5eb5-451b-e37d-08dca7227be0",
+      "code": "01",
+      "name": "General Warehouse",
+      "type": "Consignment",
+      "address": "700 Rue Principale, Granby, QC J2G 2Y4, Canada",
+      "isValidAddress": false
+    },
+    {
+      "id": "0865fdb7-5eb5-451b-e37d-08dca7227be0",
+      "code": "02",
+      "name": "Test Warehouse",
+      "type": "Consignment",
+      "address": "Parking lot, 300 Rue Bridge, Montreal, Quebec H3K 2C3, Canada",
+      "isValidAddress": false
+    }
+  ],
+  "vehicles": [
+    {
+      "name": " Vehicle ",
+      "description": " Vehicles Description ",
+      "status": "active",
+      "id": "177d9472-3866-4e19-c5e5-08dcb3949deb",
+      "createDate": "2024-08-03T09:39:57.9964551",
+      "updateDate": "2024-08-03T09:39:57.996463",
+      "createdBy": "e6d14d45-4e9b-4041-b6b6-7032a79df7bb",
+      "updatedBy": "e6d14d45-4e9b-4041-b6b6-7032a79df7bb"
+    },
+    {
+      "name": "Vehicle",
+      "description": "Vehicle 1 descriptions ",
+      "status": "inactive",
+      "id": "93f72846-fe79-4f54-2898-08dcb47bc5af",
+      "createDate": "2024-08-04T11:51:27.0101067",
+      "updateDate": "2024-08-04T11:51:27.0101958",
+      "createdBy": "e6d14d45-4e9b-4041-b6b6-7032a79df7bb",
+      "updatedBy": "e6d14d45-4e9b-4041-b6b6-7032a79df7bb"
+    },
+    {
+      "name": "Vehicle 2",
+      "description": "Vehicle 2 descriptions ",
+      "status": "active",
+      "id": "c1c5c832-740d-42a8-2899-08dcb47bc5af",
+      "createDate": "2024-08-04T11:51:27.0101067",
+      "updateDate": "2024-08-04T11:51:45.6729367",
+      "createdBy": "e6d14d45-4e9b-4041-b6b6-7032a79df7bb",
+      "updatedBy": "e6d14d45-4e9b-4041-b6b6-7032a79df7bb"
+    },
+    {
+      "name": "Vehicle 2",
+      "description": "Vehicle 2 descriptions ",
+      "status": "pending",
+      "id": "b594c820-58e5-4dc5-4d7d-08dcb497572f",
+      "createDate": "2024-08-04T11:51:27.0101067",
+      "updateDate": "2024-08-04T15:08:47.5305279",
+      "createdBy": "e6d14d45-4e9b-4041-b6b6-7032a79df7bb",
+      "updatedBy": "e6d14d45-4e9b-4041-b6b6-7032a79df7bb"
+    }
+  ]
+}

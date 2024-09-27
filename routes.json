@@ -1,0 +1,15 @@
+{
+    "/api/Identity/current-user": "/currentUser",
+    "/api/layout/apps": "/apps",
+    "/api/layout/apps/:id": "/apps/:id",
+    "/api/layout/menus": "/menus",
+    "/api/layout/menus/:id": "/menus/:id",
+    "/api/layout/modules": "/modules",
+    "/api/layout/modules/:id": "/modules/:id",
+    "/api/layout/dataSources": "/dataSources"  ,
+    "/api/layout/dataSources/:id":"/dataSources/:id",
+    "/api/consignments": "/consignments",  
+    "/api/warehouses": "/warehouses",  
+    "/api/routes": "/routes"  ,
+    "/api/routes/:id": "/routes/:id"
+ }

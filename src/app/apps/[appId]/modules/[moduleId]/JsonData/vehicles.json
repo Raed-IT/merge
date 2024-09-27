@@ -1,0 +1,76 @@
+[
+  {
+    "moduleId": "4aab091a-01d2-4222-f8ba-08dcabe593ad",
+    "dataSourceId": "8c6a32d5-960c-403a-69cd-08dcabe60c47",
+    "title": "Vehicles Details",
+    "type": "Columns",
+    "columns": 3,
+    "showColumns": 3,
+    "creatable": true,
+    "editable": true,
+    "sortOrder": 0,
+    "fields": [
+      {
+        "sectionId": "2ccc1cf3-5c3a-4dd6-4b3d-08dcabe6a4c7",
+        "propertyName": "name",
+        "label": "Vehicle Name",
+        "dataType": "String",
+        "sortOrder": 100,
+        "disabled": false,
+        "creatable": true,
+        "filterable": true,
+        "sortable": true,
+        "required": true,
+        "readOnly": false,
+        "editable": true,
+        "id": "fa6f6c5c-22cb-4e91-66bb-08dcabe6f854"
+      },
+      {
+        "sectionId": "2ccc1cf3-5c3a-4dd6-4b3d-08dcabe6a4c7",
+        "propertyName": "status",
+        "label": "Status ",
+        "dataType": "static",
+        "multiple": false,
+        "options": [
+          {
+            "label": "Active",
+            "value": "active"
+          },
+          {
+            "label": "Inactive",
+            "value": "inactive"
+          },
+          {
+            "label": "Pending",
+            "value": "pending"
+          }
+        ],
+        "sortOrder": 100,
+        "disabled": false,
+        "creatable": true,
+        "filterable": true,
+        "sortable": true,
+        "required": true,
+        "readOnly": false,
+        "editable": true,
+        "id": "b0fb3ede-0ad3-4e99-66bc-08dcabe6f854"
+      },
+      {
+        "sectionId": "2ccc1cf3-5c3a-4dd6-4b3d-08dcabe6a4c7",
+        "propertyName": "description",
+        "label": "Description ",
+        "dataType": "Text",
+        "sortOrder": 100,
+        "disabled": false,
+        "creatable": true,
+        "filterable": true,
+        "sortable": true,
+        "required": false,
+        "readOnly": false,
+        "editable": true,
+        "id": "5814b7b6-5090-4ffe-937f-08dcad6ebd03"
+      }
+    ],
+    "id": "2ccc1cf3-5c3a-4dd6-4b3d-08dcabe6a4c7"
+  }
+]

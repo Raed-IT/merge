@@ -1,0 +1,45 @@
+stages:
+  - build
+  - test
+  - deploy
+
+variables:
+  NODE_VERSION: 20
+  VERCEL_TOKEN: 'VaEds2bocl4sulwHfBKRc1Pk'
+
+before_script:
+  - 'curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash'
+  - '. ~/.nvm/nvm.sh'
+  - 'nvm install $NODE_VERSION'
+  - 'nvm use $NODE_VERSION'
+  - 'npm install -g pnpm'
+  - 'npm install -g vercel'
+  - 'npm install'
+
+build_job:
+  stage: build
+  script:
+    - 'echo "Starting build job..."'
+    - 'pnpm build'
+    - 'echo "Build job completed."'
+  only:
+    - main
+
+test_job:
+  stage: test
+  script:
+    - 'echo "Starting test job..."'
+    - 'pnpm test'
+    - 'echo "Test job completed."'
+  only:
+    - main
+
+deploy_job:
+  stage: deploy
+  script:
+    - 'echo "Starting deploy job..."'
+    - 'echo "Deploying to Vercel..."'
+    - 'vercel --prod --token $VERCEL_TOKEN'
+    - 'echo "Deploy job completed."'
+  only:
+    - main

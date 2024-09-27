@@ -1,0 +1,356 @@
+[
+  {
+    "title": "Routes Information",
+    "type": "Columns",
+    "columns": 3,
+    "showColumns": 3,
+    "creatable": true,
+    "editable": true,
+    "sortOrder": 0,
+    "fields": [
+      {
+        "propertyName": "id",
+        "label": "ID",
+        "dataType": "String",
+        "sortOrder": 100,
+        "disabled": false,
+        "creatable": false,
+        "filterable": true,
+        "required": false,
+        "readOnly": true,
+        "editable": false,
+        "sortable": true,
+        "maxLength": null,
+        "id": "3b66483dd4-de01-4cc8-e37b-08dca7227be0"
+      },
+      {
+        "propertyName": "seriesNumber",
+        "label": "Series Number",
+        "dataType": "String",
+        "sortOrder": 100,
+        "disabled": false,
+        "creatable": true,
+        "filterable": false,
+        "sortable": false,
+        "required": true,
+        "readOnly": false,
+        "editable": false,
+        "maxLength": null,
+        "id": "3b66483dd4sd-de01-4cc8-e37b-08dca7227be0"
+      },
+      {
+        "propertyName": "date",
+        "label": "Date",
+        "dataType": "Date",
+        "columns": 12,
+        "sortOrder": 100,
+        "disabled": false,
+        "creatable": true,
+        "filterable": true,
+        "required": true,
+        "readOnly": false,
+        "editable": true,
+        "sortable": true,
+        "maxLength": null,
+        "id": "3b66s4834-de01-4cc8-e37b-08dca7227be0"
+      },
+      {
+        "propertyName": "warehouseId",
+        "defaultCheck": false,
+        "label": "Warehouse",
+        "dataType": "fromModules",
+        "sortOrder": 100,
+        "disabled": false,
+        "multiple": false,
+        "creatable": true,
+        "filterable": true,
+        "sortable": false,
+        "dataSource": {
+          "name": "api/Warehouses",
+          "keyFieldName": "name",
+          "id": "de38c5a2-edd-4073-4e2a-08dca17d6fed"
+        },
+        "required": true,
+        "readOnly": false,
+        "editable": true,
+        "id": "47cb8bassd0-0284-4d9b-e37c-08dca7227be0"
+      },
+      
+      {
+        "sectionId": "2ccc1cf3-5c3a-4dd6-4b3d-08dcabe6a4c7",
+        "propertyName": "status",
+        "label": "Status ",
+        "dataType": "static",
+        "multiple": false,
+        "options": [
+          {
+            "label": "InProgress",
+            "value": "InProgress"
+          },
+          {
+            "label": "Scheduled",
+            "value": "Scheduled"
+          },
+          {
+            "label": "Completed",
+            "value": "Completed"
+          }
+        ],
+        "sortOrder": 100,
+        "disabled": false,
+        "creatable": true,
+        "filterable": true,
+        "required": true,
+        "readOnly": false,
+        "editable": true,
+        "sortable": true,
+        "id": "b0fb3ede-0ad3-4e99-66bc-08dcabe6f854"
+      },
+      {
+        "propertyName": "employeeId",
+        "defaultCheck": false,
+        "label": "Employee",
+        "dataType": "fromModules",
+        "sortOrder": 100,
+        "disabled": false,
+        "multiple": false,
+        "creatable": true,
+        "filterable": false,
+        "sortable": false,
+        "dataSource": {
+          "name": "api/drivers",
+          "keyFieldName": "name",
+          "id": "de38c5a2-edd-4073-4e2a-08dca17d6fed"
+        },
+        "required": true,
+        "readOnly": false,
+        "editable": true,
+        "id": "47cb8bassd0-0284-4d9b-e37c-08dca7227be0"
+      },
+      {
+        "propertyName": "vehicleId",
+        "defaultCheck": false,
+        "label": "Vehicle",
+        "dataType": "fromModules",
+        "sortOrder": 100,
+        "disabled": false,
+        "multiple": false,
+        "creatable": true,
+        "filterable": true,
+        "sortable": false,
+        "dataSource": {
+          "name": "api/Vehicles",
+          "keyFieldName": "name",
+          "id": "de38c5a2-edd-4073-sdds4e2a-08dca17d6fed"
+        },
+        "required": true,
+        "readOnly": false,
+        "editable": true,
+        "id": "47cb8bassd0-0284-4d9b-e37c-08dca7227be0"
+      },
+      {
+        "propertyName": "details",
+        "label": "Details ",
+        "dataType": "Text",
+        "sortOrder": 100,
+        "disabled": false,
+        "creatable": true,
+        "filterable": true,
+        "required": false,
+        "readOnly": false,
+        "editable": true,
+        "sortable": true
+      },
+      {
+        "propertyName": "returnToStart",
+        "defaultCheck": false,
+        "label": "Return To Start  ",
+        "dataType": "Checkbox",
+        "sortOrder": 100,
+        "disabled": false,
+        "multiple": false,
+        "creatable": true,
+        "filterable": false,
+        "sortable": false,
+        "required": false,
+        "readOnly": false,
+        "editable": true,
+        "id": "47cb8bassdsdsd0-0284-4d9b-e37c-08dca7227be0"
+      }      
+    ],
+    "id": "567f8205-56cc-4ada-63fd-08dca7220d9d"
+  },
+  {
+    "title": "Consignments Route on Map  ",
+    "dataSource": {
+      "name": "api/routes",
+      "keyFieldName": "name",
+      "id": "de38c5a2-edd-4073-sdds4e2a-08dca17d6fed"
+    },
+    "type": "RoutMap",
+    "propertyName": "consignmentsIds",
+    "required": true,
+    "columns": 9,
+    "showColumns": 9,
+    "creatable": false,
+    "editable": true,
+    "sortOrder": 0,
+    "fields": [],
+    "id": "567f8dd205-56cc-4ada-63fssd-08dca7220d9d"
+  },
+  {
+    "title": "Add Consignments ",
+    "type": "Table",
+    "propertyName": "consignmentsIds",
+    "required": true,
+    "columns": 9,
+    "showColumns": 12,
+    "creatable": true,
+    "editable": true,
+    "sortOrder": 0,
+    "dataSource": {
+      "name": "api/consignments",
+      "keyFieldName": "name",
+      "id": "de38c5a2-edd-4073-sdds4e2a-08dca17d6fed"
+    },
+    "headerActions": [
+      {
+        "label": "Add Consignment To Route",
+        "actionType": "drawer",
+        "width": "60%",
+        "anchor": "right",
+        "section": {
+          "title": "Add Consignments ",
+          "type": "Table",
+          "propertyName": "consignmentsIds",
+          "required": true,
+          "columns": 12,
+          "showColumns": 12,
+          "creatable": true,
+          "editable": true,
+          "sortOrder": 0,
+          "headerActions": [
+            {
+              "label": "Add New Consignment"
+            }
+          ],
+          "dataSource": {
+            "name": "api/consignments",
+            "keyFieldName": "name",
+            "id": "de38c5a2-edd-4073-sdds4e2a-08dca17d6fed"
+          },
+          "fields": [
+            {
+              "propertyName": "documentId",
+              "label": "Document ID",
+              "dataType": "String",
+              "sortOrder": 100,
+              "disabled": false,
+              "creatable": false,
+              "filterable": true,
+              "required": false,
+              "readOnly": true,
+              "editable": false,
+              "maxLength": null,
+              "id": "3b664834-de01-4cc8-e37b-08dca7227be0"
+            },
+            {
+              "propertyName": "email",
+              "label": "Email",
+              "dataType": "String",
+              "sortOrder": 100,
+              "disabled": false,
+              "creatable": false,
+              "filterable": true,
+              "required": false,
+              "readOnly": true,
+              "editable": false,
+              "maxLength": null,
+              "id": "3b664834-dse01-4cc8-e37b-08dca7227be0"
+            },
+            {
+              "propertyName": "address",
+              "label": "Address",
+              "dataType": "String",
+              "sortOrder": 100,
+              "disabled": false,
+              "creatable": false,
+              "filterable": true,
+              "required": false,
+              "readOnly": true,
+              "editable": false,
+              "sortable": true,
+              "maxLength": null,
+              "id": "3b664834-dse01-4cc8-e37b-08dca7227be0"
+            }
+          ],
+          "id": "567f8205-56cc-4ada-63fssd-08dca7220d9d"
+        }
+      }
+    ],
+    "fields": [
+      {
+        "propertyName": "documentNumber",
+        "label": "Consignments",
+        "dataType": "String",
+        "sortOrder": 100,
+        "disabled": false,  
+        "creatable": true,
+        "filterable": true,
+        "required": true,
+        "readOnly": true,
+        "editable": true,
+        "maxLength": null,
+        "sortable": false,
+        "id": "3b664834-dedf01-4cc8-e37b-08dca7227be0"
+      },
+      {
+        "propertyName": "documentId",
+        "label": "Document ID",
+        "dataType": "String",
+        "sortOrder": 100,
+        "disabled": false,  
+        "creatable": false,
+        "filterable": true,
+        "required": false,
+        "readOnly": true,
+        "editable": false,
+        "sortable": false,
+        "maxLength": null,
+        "id": "3b664834-de01-4cc8-e37b-08dca7227be0"
+      },
+      {
+        "propertyName": "email",
+        "label": "Email",
+        "dataType": "String",
+        "sortOrder": 100,
+        "disabled": false,
+        "creatable": false,
+        "filterable": true,
+        "required": false,
+        "readOnly": true,
+        "sortable": false,
+        "editable": false,
+        "maxLength": null,
+        "id": "3b664834-dse01-4cc8-e37b-08dca7227be0"
+      },
+      {
+        "propertyName": "address",
+        "label": "Address",
+        "dataType": "String",
+        "sortOrder": 100,
+        "disabled": false,
+        "creatable": false,
+        "filterable": true,
+        "required": false,
+        "readOnly": true,
+        "editable": false,
+        "sortable": false,
+        "maxLength": null,
+        "id": "3b664834-dse01-4cc8-e37b-08dca7227be0"
+      }
+      
+    ],
+    "id": "567f8205-56cc-4ada-63fssd-08dca7220d9d"
+  }
+]
